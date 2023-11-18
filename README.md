@@ -67,6 +67,8 @@ public OnAltDialogResponse(playerid, dialogid, response, listitem)
 ## Thanks
 Zamaroht and adri1 for [Zamaroht's Textdraw Editor](https://sampforum.blast.hk/showthread.php?tid=406833)
 
+adib-yg for make it compatible with omp-stdlib
+
 ## Frequently asked Questions
 **Q:** How to hide the shown dialog?  
 **A:** This can be done like in default dialogs.  
